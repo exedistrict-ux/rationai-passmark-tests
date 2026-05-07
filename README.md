@@ -1,4 +1,4 @@
-# RationAI Passmark Test Suite 🧪
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8bf418cc-dc1a-4ffd-a1d8-9eae7ce21699" /># RationAI Passmark Test Suite 🧪
 
 > AI-powered end-to-end tests for [RationAI](https://ration-mitra-ai.lovable.app) — a Public Distribution System (PDS) helper app for Indian citizens.
 
@@ -144,6 +144,8 @@ Read the full writeup on Hashnode:
 - **App:** [ration-mitra-ai.lovable.app](https://ration-mitra-ai.lovable.app)
 - **Passmark:** [github.com/bug0inc/passmark](https://github.com/bug0inc/passmark)
 - **Hackathon:** [hashnode.com/hackathons/breaking-things](https://hashnode.com/hackathons/breaking-things)
+- **Hackathon Article:[https://gaurangbhatt.hashnode.dev/breaking-rationai-how-i-used-passmark-to-test-my-ai-powered-pds-helper-app]
+- **LinkedIn Post :[done https://www.linkedin.com/posts/gaurang-bhatt-4557343a1_breakingappshackathon-passmark-aitesting-share-7458023150623293440-XP49?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGKHtIEBjuRosDneQtMRblik5xdLPaQ1kbA]  
 
 ---
 
